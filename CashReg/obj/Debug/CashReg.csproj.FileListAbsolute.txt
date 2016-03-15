@@ -1,0 +1,8 @@
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\bin\Debug\CashReg.exe.config
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\bin\Debug\CashReg.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\bin\Debug\CashReg.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\obj\Debug\CashReg.csprojResolveAssemblyReference.cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\obj\Debug\CashReg.Properties.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\obj\Debug\CashReg.csproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\obj\Debug\CashReg.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\CashReg\obj\Debug\CashReg.pdb

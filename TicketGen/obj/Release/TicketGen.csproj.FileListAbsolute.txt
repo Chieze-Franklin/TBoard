@@ -1,0 +1,9 @@
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\bin\Release\TicketGen.exe.config
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\bin\Release\TicketGen.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\bin\Release\TicketGen.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.csprojResolveAssemblyReference.cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.MainForm.resources
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.Properties.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.csproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TicketGen\obj\Release\TicketGen.pdb

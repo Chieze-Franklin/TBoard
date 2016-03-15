@@ -1,0 +1,24 @@
+EVENT
+	prepared speeches
+	no error when capturing players videos;
+		green-screen tech
+	giant cheque
+	couples ticket
+	youtube channel
+
+PLAYER REG
+	android app
+	sex, age
+AUDIENCE REG
+	android app
+
+TBOARD
+	new TBoard background image: graphics
+	-------------
+	post to fb and twitter
+
+NEXT EDITION:
+	EVENT
+		ahead-of-time budgeting
+	CASHREG
+		PC app

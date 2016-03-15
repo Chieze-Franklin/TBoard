@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Player Name="Paul" Clip="player11.clip.avi" HappyFace="player11.happy.png" NormalFace="player11.normal.png" SadFace="player11.sad.png">
+</Player>

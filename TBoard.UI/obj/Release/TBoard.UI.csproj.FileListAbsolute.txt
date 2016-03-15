@@ -1,0 +1,14 @@
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\bin\Release\TBoard.UI.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\bin\Release\TBoard.UI.exe.config
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\Interop.WMPLib.dll
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\AxInterop.WMPLib.dll
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.csproj.ResolveComReference.cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.MatchForm.resources
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.Properties.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.csproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\bin\Release\TBoard.UI.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\bin\Release\Interop.WMPLib.dll
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\bin\Release\AxInterop.WMPLib.dll
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TBoard\TBoard.UI\obj\Release\TBoard.UI.csprojResolveAssemblyReference.cache

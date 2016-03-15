@@ -1,0 +1,4 @@
+/ToDo.txt
+/CashReg
+/TBoardTests
+/TicketGen
